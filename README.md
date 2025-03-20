@@ -13,6 +13,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
@@ -27,5 +30,8 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" width="60" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/VHDL" target="_blank" rel="noreferrer">
+    <img src="https://icons-for-free.com/iff/png/512/VHDL-1324888772201837274.png" alt="VHDL" width="60" height="40"/>
   </a>
 </p>
